@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\Ivan\source\repos\ClientServerApp\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
